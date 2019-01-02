@@ -8,6 +8,7 @@ spring:
           uri: https://github.com/war2384/config-repo
           username: war2384
           password: 19880907er
+          basedir: /Users/weiyuhang/IdeaProjects/imooc/config/target/basedir
 eureka:
   client:
     service-url:
